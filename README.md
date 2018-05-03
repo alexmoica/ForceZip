@@ -7,4 +7,4 @@ To use ForceZip, simply place the ForceZip.exe file in the same directory as you
 You can also use ForceZip as a simple zip file manager to open and extract specified unprotected files from the zip folder.
 
 ### *Caution*
-ForceZip exhibits increasingly longer run-times with additional characters in the password it is cracking. ForceZip is recommended to be used for passwords up to 5 characters in length for it to finish executing in a reasonable amount of time.
+ForceZip exhibits increasingly longer run-times with additional characters in the password it is cracking. ForceZip is recommended to be used for passwords up to 4 characters in length for it to finish executing in a reasonable amount of time.

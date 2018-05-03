@@ -7,7 +7,7 @@ import zlib
 
 dp = os.path.join(os.path.dirname(__file__),'')
 
-chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+chars = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~`!@#$%^&*()-_=+[{]}\|;:\'"/?.>,<'
 
 while True:
 	fileName = input("Name of zip file: ")
